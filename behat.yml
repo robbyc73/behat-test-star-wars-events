@@ -1,0 +1,7 @@
+default:
+    extensions:
+        Behat\MinkExtension\Extension:
+            goutte: ~
+            selenium2: ~
+            #base_url: http://en.wikipedia.org
+            base_url: http://services/starwarsevents/web/app_dev.php
