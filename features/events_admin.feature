@@ -41,8 +41,8 @@ Feature: Events Admin
 
   Examples:
     | name               | month | day | year | hour | minute | location   | details            |
-    | Velociraptor       | 3     | 23  | 2019 | 17   | 12     | Isla nubar | Trash the park     |
-    | Tyrannosaurus Bill | 8     | 14  | 2018 | 19   | 17     | Mainland   | Trash the mainland |
+    | Brachiosaurus     | 3     | 23  | 2020 | 17   | 12     | Isla nubar | Eatthe park     |
+    | Mammoth | 8     | 14  | 2017 | 19   | 17     | Mainland   | Gore the mainland |
 
 
 
